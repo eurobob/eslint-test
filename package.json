@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-import-resolver-babel-module": "^5.1.0",
     "react-scripts": "3.0.1"
   },
   "dependencies": {
+    "@emotion/core": "^10.0.14",
+    "@emotion/styled": "^10.0.14",
+    "babel-plugin-emotion": "^10.0.14",
+    "babel-plugin-module-resolver": "^3.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
